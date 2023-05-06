@@ -51,21 +51,3 @@ public class PersonaController {
           return perso;
     }
 }
-
-/*@RequestParam("nombre") String nuevoNombre,
-                               @RequestParam("apellido") String nuevoApellido,
-                               @RequestParam("img") String nuevoImg,
-                               @RequestParam("titulo") String nuevoTitulo,
-                               @RequestParam("info") String nuevoInfo)
-
-        Persona perso = interPersona.findPersona(id);
-        
-        perso.setApellido(nuevoApellido);
-        perso.setNombre(nuevoNombre);
-        perso.setImg(nuevoImg);
-        perso.setTitulo(nuevoTitulo);
-        perso.setInfo(nuevoInfo);
-        
-        interPersona.savePersona(perso);
-        return perso;
-*/
