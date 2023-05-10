@@ -20,7 +20,7 @@ public class PuestoController {
     @Autowired
     private IPuestoService interPuesto;
 
-    @GetMapping("/puestos/traer")
+    @GetMapping("/puesto/traer")
     public List<Puesto> getPuestos() {
         return interPuesto.getPuestos();
     }

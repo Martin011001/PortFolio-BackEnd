@@ -17,6 +17,5 @@ public class Herramienta {
     @GeneratedValue(strategy = GenerationType.SEQUENCE)
     private Long id;
     private String nombre;
-    @ManyToOne
-    private Experiencia experiencia;
+    private Long experiencia_id;
 }

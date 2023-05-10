@@ -20,7 +20,7 @@ public class ConocimientoController {
     @Autowired
     private IConocimientoService interConocimiento;
 
-        @GetMapping("/conocimientoSaber/traer")
+    @GetMapping("/conocimientoSaber/traer")
     public List<Conocimiento> getConocimiento() {
         return interConocimiento.getConocimiento();
     }
