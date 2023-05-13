@@ -31,9 +31,9 @@ public class ExperienciaController {
     }
 
     @PostMapping("/experiencias/crear")
-    public String createExperiencia(@RequestBody Experiencia expe) {
+    public Experiencia createExperiencia(@RequestBody Experiencia expe) {
         interExperiencia.saveExperiencia(expe);
-        return "La experiencia fue creada correctamente";
+        return expe;
     }
 
     @DeleteMapping("/experiencias/borrar/{id}")

@@ -1,26 +1,26 @@
 package com.SpringBoot.Portofolio.model;
 
 import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import lombok.Getter;
 import lombok.Setter;
 
-@Getter@Setter
+@Getter
+@Setter
 @Entity
 public class User {
 
     @Id
+    @GeneratedValue(strategy = GenerationType.SEQUENCE)
     private Long id;
-    private boolean admin;
+    private boolean admin = false;
     private String email;
     private String password;
 
     public boolean getAdmin() {
         return this.admin;
-    }
-
-    public User(boolean admin){
-        this.admin = admin;
     }
 
 }

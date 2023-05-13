@@ -1,32 +1,52 @@
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\controller\EstudioController.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\model\Habilidad.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\repository\ExperienciaRepository.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\controller\PersonaController.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\IEstudioService.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\repository\IdiomaRepository.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\IHabilidadService.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\IExperienciaService.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\model\Persona.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\WebConfig.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\controller\IdiomaController.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\model\Idioma.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\ProyectoService.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\model\Proyecto.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\repository\ProyectoRepository.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\ExperienciaService.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\controller\ProyectoController.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\IIdiomaService.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\IdiomaService.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\IProyectoService.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\model\Experiencia.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\EstudioService.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\controller\ExperienciaController.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\repository\EstudioRepository.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\PersonaService.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\model\Estudio.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\controller\HabilidadController.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\PortofolioApplication.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\HabilidadService.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\repository\HabilidadRepository.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\repository\PersonaRepository.java
-C:\Users\Martin\Downloads\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\IPersonaService.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\model\SobreMi.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\repository\SobreMiRepository.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\IHerramientaService.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\model\Interes.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\model\Educacion.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\IEducacionService.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\repository\PersonaRepository.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\IUserService.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\repository\EducacionRepository.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\controller\PuestoController.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\IPersonaService.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\repository\ProyectoRepository.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\UserService.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\model\Conocimiento.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\controller\ConocimientoController.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\ExperienciaService.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\controller\PersonaController.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\controller\SobreMiController.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\IConocimientoService.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\repository\ExperienciaRepository.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\ProyectoService.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\repository\HerramientaRepository.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\model\Experiencia.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\controller\InteresController.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\model\Herramienta.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\WebConfig.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\PortofolioApplication.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\model\Persona.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\IInteresService.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\model\User.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\EducacionService.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\controller\ExperienciaController.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\controller\EducacionController.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\IExperienciaService.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\IProyectoService.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\PuestoService.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\repository\InteresRepository.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\model\Proyecto.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\InteresService.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\ISobreMiService.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\repository\PuestoRepository.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\repository\UserRepository.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\SobreMiService.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\PersonaService.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\controller\ProyectoController.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\model\Puesto.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\controller\UserController.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\ConocimientoService.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\HerramientaService.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\repository\ConocimientoRepository.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\controller\HerramientaController.java
+C:\Users\Martin\Desktop\Martin cosas\ArgentinaPrgrama\portfolio-backend2-main\portfolio-backend2-main\src\main\java\com\SpringBoot\Portofolio\service\IPuestoService.java
